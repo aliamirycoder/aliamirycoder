@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliamirycoder
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning laravel and flutter
+- 🌱 I’m currently learning laravel , flutter and vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : aliamiry.ir
 
